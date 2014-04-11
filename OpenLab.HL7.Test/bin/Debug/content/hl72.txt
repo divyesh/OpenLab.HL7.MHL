@@ -1,0 +1,68 @@
+MSH|^~\&|MedHealth Laboratories||||201212191212||ORU^R01|201212191212|P|2.3|||||||
+PID|||1208111242|1142542642^BK|LAST^FIRST||19600508|M|||666 GHOST DRIVE^^TORONTO^ON||4167894321||||||||||||||||||
+OBR|1||||R|201212180012||||||||201212180012||112113^PHY_LAST^DR. PHY_FIRST|905 953 1625||||||||A|||||||||||||||||||
+OBX|1|NM|IMMUNOASSAY^B12^Vitamin B12|1|304|pmol/L|133-675||||F||||||
+OBX|2|FT|IMMUNOASSAY^B12^Vitamin B12|2|Intermediate Range : 107 - 132 pmol/L||||||F||||||
+OBX|3|FT|IMMUNOASSAY^B12^Vitamin B12|3|Deficient Range : < 107 pmol/L||||||F||||||
+OBX|4|FT|IMMUNOASSAY^B12^Vitamin B12|4|Vitamin B12 assays should be considered for assessment of peripheral neuropathy,||||||F||||||
+OBX|5|FT|IMMUNOASSAY^B12^Vitamin B12|5|megaloblastic anemia or malabsorptive conditions. Routine screening should only be||||||F||||||
+OBX|6|FT|IMMUNOASSAY^B12^Vitamin B12|6|ordered on seniors and then only once every few years. In lieu of testing, oral||||||F||||||
+OBX|7|FT|IMMUNOASSAY^B12^Vitamin B12|7|supplementation should be considered for individuals suspected of vitamin B12 deficiency.||||||F||||||
+OBX|8|NM|GENERAL CHEMISTRY^BIT^Bilirubin Total||15|µmol/L|5-21||||F||||||
+OBX|9|NM|GENERAL CHEMISTRY^C/H^Total Cholesterol: HDL Ratio|1|5.8||||||F||||||
+OBX|10|FT|GENERAL CHEMISTRY^C/H^Total Cholesterol: HDL Ratio|2|10 Year Risk Category Target Lipid Values||||||F||||||
+OBX|11|FT|GENERAL CHEMISTRY^C/H^Total Cholesterol: HDL Ratio|3|LDL-C mmol/L T Chol/HDL ratio||||||F||||||
+OBX|12|FT|GENERAL CHEMISTRY^C/H^Total Cholesterol: HDL Ratio|4|High: (>=20% or history of||||||F||||||
+OBX|13|FT|GENERAL CHEMISTRY^C/H^Total Cholesterol: HDL Ratio|5|diabetes mellitus or||||||F||||||
+OBX|14|FT|GENERAL CHEMISTRY^C/H^Total Cholesterol: HDL Ratio|6|any atherosclerotic < 2.0 and < 4.0||||||F||||||
+OBX|15|FT|GENERAL CHEMISTRY^C/H^Total Cholesterol: HDL Ratio|7|disease)||||||F||||||
+OBX|16|FT|GENERAL CHEMISTRY^C/H^Total Cholesterol: HDL Ratio|8|Moderate: (10-19%) < 3.5 and < 5.0||||||F||||||
+OBX|17|FT|GENERAL CHEMISTRY^C/H^Total Cholesterol: HDL Ratio|9|Low: (<10%) < 5.0 and < 6.0||||||F||||||
+OBX|18|NM|GENERAL CHEMISTRY^LDL^LDL Cholesterol||3.39|mmol/L|< 3.36|H|||F||||||
+OBX|19|NM|GENERAL CHEMISTRY^HDL^HDL Cholesterol||0.84|mmol/L|0.75-1.85||||F||||||
+OBX|20|NM|GENERAL CHEMISTRY^TRI^Triglycerides||1.44|mmol/L|< 1.50||||F||||||
+OBX|21|NM|GENERAL CHEMISTRY^CHO^Cholesterol||4.88|mmol/L|< 5.20||||F||||||
+OBX|22|NM|GENERAL CHEMISTRY^BUA^Uric Acid||330|µmol/L|286-518||||F||||||
+OBX|23|NM|GENERAL CHEMISTRY^ALT^ALT (SGPT)||31|U/L |17-63||||F||||||
+OBX|24|NM|GENERAL CHEMISTRY^ALP^Alkaline Phosphatase|1|64|U/L |38-126||||F||||||
+OBX|25|FT|GENERAL CHEMISTRY^ALP^Alkaline Phosphatase|2|AGE RANGE||||||F||||||
+OBX|26|FT|GENERAL CHEMISTRY^ALP^Alkaline Phosphatase|3|1 TO 4 YEARS (MALE: 110-302 U/L , FEMALE:60-321 U/L)||||||F||||||
+OBX|27|FT|GENERAL CHEMISTRY^ALP^Alkaline Phosphatase|4|5 TO 9 YEARS (MALE: 110-341 U/L , FEMALE:118-360 U/L)||||||F||||||
+OBX|28|FT|GENERAL CHEMISTRY^ALP^Alkaline Phosphatase|5|10 TO 11 YEARS 103-373 U/L||||||F||||||
+OBX|29|FT|GENERAL CHEMISTRY^ALP^Alkaline Phosphatase|6|12 TO 13 YEARS 83-382 U/L||||||F||||||
+OBX|30|FT|GENERAL CHEMISTRY^ALP^Alkaline Phosphatase|7|14 TO 15 YEARS 67-372 U/L||||||F||||||
+OBX|31|FT|GENERAL CHEMISTRY^ALP^Alkaline Phosphatase|8|ADULT 38-126 U/L||||||F||||||
+OBX|32|FT|GENERAL CHEMISTRY^ALP^Alkaline Phosphatase|9|Alkaline Phosphatase testing should be reserved for specific diagnoses, especially hepatobiliary||||||F||||||
+OBX|33|FT|GENERAL CHEMISTRY^ALP^Alkaline Phosphatase|10|and bone disorders. Its use in routine health screening is not appropriate.||||||F||||||
+OBX|34|NM|GENERAL CHEMISTRY^CHL^Chloride||102|mmol/L|101-111||||F||||||
+OBX|35|NM|GENERAL CHEMISTRY^POT^Potassium||4.0|mmol/L|3.6-5.1||||F||||||
+OBX|36|NM|GENERAL CHEMISTRY^SOD^Sodium||138|mmol/L|136-144||||F||||||
+OBX|37|NM|GENERAL CHEMISTRY^EGFR^EGFR|1|155|mL/min/1.73m\E\S\E\2|||||F||||||
+OBX|38|FT|GENERAL CHEMISTRY^EGFR^EGFR|2|||||||F||||||
+OBX|39|FT|GENERAL CHEMISTRY^EGFR^EGFR|3|For Patients of African descent, the reported eGFR must be multiplied by a correction||||||F||||||
+OBX|40|FT|GENERAL CHEMISTRY^EGFR^EGFR|4|factor of 1.21||||||F||||||
+OBX|41|FT|GENERAL CHEMISTRY^EGFR^EGFR|5|eGFR = 30-59 mL/min/1.73m\E\S\E\2 : Consistent with moderate chronic kidney disease||||||F||||||
+OBX|42|FT|GENERAL CHEMISTRY^EGFR^EGFR|6|if result confirmed by repeat testing in 3 months.||||||F||||||
+OBX|43|FT|GENERAL CHEMISTRY^EGFR^EGFR|7|eGFR = 15-29 mL/min/1.73m\E\S\E\2 : Consistent with severe chronic kidney disease||||||F||||||
+OBX|44|FT|GENERAL CHEMISTRY^EGFR^EGFR|8|eGFR = < 15 mL/min/1.73m\E\S\E\2 : Consistent with kidney failure||||||F||||||
+OBX|45|FT|GENERAL CHEMISTRY^EGFR^EGFR|9|[ MDRD = Modification of Diet in Renal Disease ]||||||F||||||
+OBX|46|FT|GENERAL CHEMISTRY^EGFR^EGFR|10|||||||F||||||
+OBX|47|NM|GENERAL CHEMISTRY^CRT^Creatinine||49|µmol/L|50-115|L|||F||||||
+OBX|48|NM|GENERAL CHEMISTRY^A1c^Hb A1C||0.094||0.040-0.060|H|||F||||||
+OBX|49|NM|GENERAL CHEMISTRY^BSR^Glucose Random|1|8.8|mmol/L|||||F||||||
+OBX|50|FT|GENERAL CHEMISTRY^BSR^Glucose Random|2|NORMAL RANGE IS NOT DEFINED.||||||F||||||
+OBX|51|FT|GENERAL CHEMISTRY^BSR^Glucose Random|3|||||||F||||||
+OBX|52|NM|DIFFERENTIAL COUNT^BAS^Basophil||0.1|x10**9/L|0.0-0.2||||F||||||
+OBX|53|NM|DIFFERENTIAL COUNT^ESN^Eosinophil||0.3|x10**9/L|0.0-0.5||||F||||||
+OBX|54|NM|DIFFERENTIAL COUNT^MNO^Monocyte||0.6||0.0-0.8||||F||||||
+OBX|55|NM|DIFFERENTIAL COUNT^LYM^Lymphocyte||2.7|x10**9/L|1.0-3.5||||F||||||
+OBX|56|NM|DIFFERENTIAL COUNT^NEU^Neutrophil||5.6|x10**9/L|2.0-7.5||||F||||||
+OBX|57|NM|HEMATOLOGY^RDW^RDW||12.9||11.5-14.5||||F||||||
+OBX|58|NM|HEMATOLOGY^CHC^MCHC||326|g/L|320-360||||F||||||
+OBX|59|NM|HEMATOLOGY^MCH^MCH||29.5|pg |27.5-32.5||||F||||||
+OBX|60|NM|HEMATOLOGY^MCV^MCV||90.3|fL |80-98||||F||||||
+OBX|61|NM|HEMATOLOGY^PLC^Platelet Count||195|x10**9/L|150-400||||F||||||
+OBX|62|NM|HEMATOLOGY^HCT^Hematocrit||0.438||0.40-0.54||||F||||||
+OBX|63|NM|HEMATOLOGY^HGB^Hemoglobin||143|g/L|140-180||||F||||||
+OBX|64|NM|HEMATOLOGY^RBC^RBC||4.85|x10**12/L |4.7-6.0||||F||||||
+OBX|65|NM|HEMATOLOGY^WBC^WBC||9.2|x10**9/L|4.0-11.0||||F||||||

@@ -1,0 +1,5 @@
+C:\Users\divyeshk\Documents\Visual Studio 2008\Projects\OpenLab.HL7.MHL\OpenLab.HL7.MHL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\divyeshk\Documents\Visual Studio 2008\Projects\OpenLab.HL7.MHL\OpenLab.HL7.MHL\bin\Debug\OpenLab.HL7.MHL.dll
+C:\Users\divyeshk\Documents\Visual Studio 2008\Projects\OpenLab.HL7.MHL\OpenLab.HL7.MHL\bin\Debug\OpenLab.HL7.MHL.pdb
+C:\Users\divyeshk\Documents\Visual Studio 2008\Projects\OpenLab.HL7.MHL\OpenLab.HL7.MHL\obj\Debug\OpenLab.HL7.MHL.dll
+C:\Users\divyeshk\Documents\Visual Studio 2008\Projects\OpenLab.HL7.MHL\OpenLab.HL7.MHL\obj\Debug\OpenLab.HL7.MHL.pdb

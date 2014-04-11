@@ -1,0 +1,11 @@
+MSH|^~\&|MedHealth Laboratories||||201312031312||ORU^R01|201312031312|P|2.3|||||||
+PID|||1312718742|1641462260^TT|KOKMADUWA GAMAGE^SANITH D||20091223|M|||84 PORCHESTER DRIVE^^TORONTO^ON||4164969564||||||||||||||||||
+OBR|1||||R|201311270011||||||||201311270011||014583^ASIRWATHAM^DR. R|416-297-6700||||||||F|||||||||||||||||||
+OBX|1|FT|MICROBIOLOGY^MSU^Urine Microbiology|1|Colony count >100 xE6 CFU/L||||||F||||||
+OBX|2|FT|MICROBIOLOGY^MSU^Urine Microbiology|2|Culture : E. coli.||||||F||||||
+OBX|3|FT|MICROBIOLOGY^MSU^Urine Microbiology|3|Nitrofurantoin=I||||||F||||||
+OBX|4|FT|MICROBIOLOGY^MSU^Urine Microbiology|4|Trimethoprim/sulfa=R||||||F||||||
+OBX|5|FT|MICROBIOLOGY^MSU^Urine Microbiology|5|Cephalexin=R||||||F||||||
+OBX|6|FT|MICROBIOLOGY^MSU^Urine Microbiology|6|Ampicillin=R||||||F||||||
+OBX|7|FT|MICROBIOLOGY^MSU^Urine Microbiology|7|Cefixime=S||||||F||||||
+OBX|8|FT|MICROBIOLOGY^MSU^Urine Microbiology|8|S = sensitive I = Intermediate R = resistant||||||F||||||

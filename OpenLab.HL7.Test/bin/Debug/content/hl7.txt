@@ -1,0 +1,7 @@
+MSH|^~\&|MedHealth Laboratories||||201312031212||ORU^R01|201312031212|P|2.3|||||||
+PID|||1312516819|7768594801^XX|AJANAUTH^VIJAILAKSHMI||19611107|F|||62-1250 BRIMLEY ROAD^^SCARBOROUGH^ON||4162674990||||||||||||||||||
+OBR|1||||D|201311250011||||||||201311250011||014583^ASIRWATHAM^DR. R|416-297-6700||||||||F|||||||||||||||||||
+OBX|1|FT|FOBT (ColonCancerCheck)^FOB1^Fecal Occult Blood Testing (Flap1)||Negative||||||F||||||
+OBX|2|FT|FOBT (ColonCancerCheck)^FOB2^Fecal Occult Blood Testing (Flap2)||Negative||||||F||||||
+OBX|3|FT|FOBT (ColonCancerCheck)^FOB3^Fecal Occult Blood Testing (Flap3)||Negative||||||F||||||
+OBX|4|FT|^Comment||SPECIMEN COLLECTION DATE NOT PROVIDED.||||||||||||

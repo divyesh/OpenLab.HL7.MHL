@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="B05600B4-4B01-482B-9E5F-DB59621C4B0E" ModuleId="OpenLab.HL7.MHL" />
+  <Module PersistentId="D5773CB1-0E43-4CD5-AEA3-251E8918B086" ModuleId="OpenLab.HL7.Test" />
+</Modules>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLab.HL7.MHL", "OpenLab.HL7.MHL\OpenLab.HL7.MHL.csproj", "{B05600B4-4B01-482B-9E5F-DB59621C4B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLab.HL7.Test", "OpenLab.HL7.Test\OpenLab.HL7.Test.csproj", "{D5773CB1-0E43-4CD5-AEA3-251E8918B086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05600B4-4B01-482B-9E5F-DB59621C4B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05600B4-4B01-482B-9E5F-DB59621C4B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05600B4-4B01-482B-9E5F-DB59621C4B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05600B4-4B01-482B-9E5F-DB59621C4B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5773CB1-0E43-4CD5-AEA3-251E8918B086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5773CB1-0E43-4CD5-AEA3-251E8918B086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5773CB1-0E43-4CD5-AEA3-251E8918B086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5773CB1-0E43-4CD5-AEA3-251E8918B086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

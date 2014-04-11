@@ -1,0 +1,126 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:ReportStatus.cs" caret="90" fromTop="4" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/d:content/f:hl7.txt" caret="295" fromTop="2" />
+      <File id="B05600B4-4B01-482B-9E5F-DB59621C4B0E/f:PatientIdentification.cs" caret="5406" fromTop="25" />
+      <File id="B05600B4-4B01-482B-9E5F-DB59621C4B0E/f:ObservationRequest.cs" caret="8870" fromTop="28" />
+      <File id="B05600B4-4B01-482B-9E5F-DB59621C4B0E/f:NTE.cs" caret="16" fromTop="0" />
+      <File id="B05600B4-4B01-482B-9E5F-DB59621C4B0E/f:PatientReport.cs" caret="771" fromTop="22" />
+      <File id="B05600B4-4B01-482B-9E5F-DB59621C4B0E/f:ObservationResultX.cs" caret="1784" fromTop="14" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:PDFFonts.cs" caret="731" fromTop="23" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="2683" fromTop="8" />
+      <File id="B05600B4-4B01-482B-9E5F-DB59621C4B0E/f:MessageHeader.cs" caret="1228" fromTop="12" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:Program.cs" caret="205" fromTop="9" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HeaderFooter.cs" caret="583" fromTop="21" />
+      <File id="B05600B4-4B01-482B-9E5F-DB59621C4B0E/f:Report.cs" caret="995" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:PDFFonts.cs" caret="186" fromTop="9" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="6908" fromTop="13" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="8855" fromTop="17" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="10401" fromTop="19" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:ReportStatus.cs" caret="0" fromTop="0" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:ReportStatus.cs" caret="1306" fromTop="27" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="11201" fromTop="19" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:ReportStatus.cs" caret="147" fromTop="7" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="1167" fromTop="12" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="5280" fromTop="31" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="5375" fromTop="33" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="829" fromTop="13" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="4797" fromTop="26" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="5510" fromTop="33" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:Program.cs" caret="160" fromTop="12" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HeaderFooter.cs" caret="2628" fromTop="22" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:Program.cs" caret="15" fromTop="1" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HeaderFooter.cs" caret="1537" fromTop="24" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HeaderFooter.cs" caret="1287" fromTop="20" />
+      <File id="B05600B4-4B01-482B-9E5F-DB59621C4B0E/f:Report.cs" caret="2743" fromTop="40" />
+      <File id="B05600B4-4B01-482B-9E5F-DB59621C4B0E/f:Report.cs" caret="2554" fromTop="34" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="12827" fromTop="26" />
+      <File id="B05600B4-4B01-482B-9E5F-DB59621C4B0E/f:Report.cs" caret="460" fromTop="13" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="506" fromTop="20" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="289" fromTop="13" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HL7ToPDF.cs" caret="506" fromTop="18" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:Program.cs" caret="162" fromTop="8" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:Program.cs" caret="386" fromTop="14" />
+      <File id="D5773CB1-0E43-4CD5-AEA3-251E8918B086/f:HeaderFooter.cs" caret="478" fromTop="18" />
+      <File id="B05600B4-4B01-482B-9E5F-DB59621C4B0E/f:ObservationResultX.cs" caret="1802" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="IList" priority="30" />
+      <Item value="NTE`0" priority="30" />
+      <Item value="var" priority="92" />
+      <Item value="nte" priority="30" />
+      <Item value="static" priority="30" />
+      <Item value="void" priority="61" />
+      <Item value="public" priority="123" />
+      <Item value="HL7toPDF`0" priority="30" />
+      <Item value="string" priority="154" />
+      <Item value="_filePath" priority="61" />
+      <Item value="filePath" priority="30" />
+      <Item value="new" priority="61" />
+      <Item value="HL7toPDF" priority="27" />
+      <Item value="hl7filePath" priority="30" />
+      <Item value="private" priority="92" />
+      <Item value="_pdfFilePath" priority="61" />
+      <Item value="pdfFilePath" priority="30" />
+      <Item value="System" priority="30" />
+      <Item value="IO" priority="26" />
+      <Item value="File`0" priority="26" />
+      <Item value="PdfOCProperties`0" priority="30" />
+      <Item value="Report`0" priority="61" />
+      <Item value="pr" priority="61" />
+      <Item value="null" priority="30" />
+      <Item value="foreach" priority="30" />
+      <Item value="ntE" priority="30" />
+      <Item value="object" priority="30" />
+      <Item value="Console`0" priority="92" />
+      <Item value="hl7" priority="30" />
+      <Item value="Report" priority="27" />
+      <Item value="hl7FilePath" priority="30" />
+      <Item value="if" priority="30" />
+      <Item value="test" priority="30" />
+      <Item value="Length" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="26" />
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Create`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenLab.HL7.MHL.Report">
+      <Item value="NTEs" priority="53" />
+      <Item value="ReadHL7`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadLine`0" priority="26" />
+      <Item value="WriteLine`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenLab.HL7.Test.HL7toPDF">
+      <Item value="CreatePDF`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
